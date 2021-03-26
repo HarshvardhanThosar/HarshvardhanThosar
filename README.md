@@ -5,9 +5,8 @@ I want to contribute something meaningful to this world.
 
 Looking forward to collab in open source projects.
 
-<img src="https://raw.githubusercontent.com/HarshvardhanThosar/SourceMediaFiles/fdbd4b8ba6118fc562b6e263d86cb03ee390aa6a/BrandingSources/H_LOGO_WHITE_SVG.svg" loading="lazy" alt="Profile Image" width="400">
-
-<img src="https://github-readme-stats.vercel.app/api?username=harshvardhanthosar&&show_icons=true&title_color=ffffff&icon_color=null&text_color=ffffff&bg_color=151515" loading="lazy" alt="Profile" width="400">
+<img src="https://raw.githubusercontent.com/HarshvardhanThosar/SourceMediaFiles/fdbd4b8ba6118fc562b6e263d86cb03ee390aa6a/BrandingSources/H_LOGO_WHITE_SVG.svg" loading="lazy" alt="Profile Image" width="15%">
+<img src="https://github-readme-stats.vercel.app/api?username=harshvardhanthosar&&show_icons=true&title_color=ffffff&icon_color=null&text_color=ffffff&bg_color=151515" loading="lazy" alt="Profile" width="75%">
 
 Help me with stars if you find my projects useful.
 

@@ -6,7 +6,7 @@ I want to contribute something meaningful to this world.
 Looking forward to collab in open source projects.
 
 <div>
-<img src="https://raw.githubusercontent.com/HarshvardhanThosar/SourceMediaFiles/fdbd4b8ba6118fc562b6e263d86cb03ee390aa6a/BrandingSources/H_LOGO_WHITE_SVG.svg" loading="lazy" alt="Profile Image" height="200">
+<img src="https://raw.githubusercontent.com/HarshvardhanThosar/SourceMediaFiles/fdbd4b8ba6118fc562b6e263d86cb03ee390aa6a/BrandingSources/H_LOGO.png" loading="lazy" alt="Profile Image" height="200">
 <img src="https://github-readme-stats.vercel.app/api?username=harshvardhanthosar&&show_icons=true&title_color=ffffff&icon_color=1f6feb&text_color=ffffff&bg_color=151515" loading="lazy" alt="Profile" height="200">
 </div>
 

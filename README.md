@@ -56,4 +56,4 @@ emit - An Innovation To The Online Education Sysytem
 
 Harshvardhan Thosar
 
-<img src="https://github.com/HarshvardhanThosar/SourceMediaFiles/blob/master/BrandingSources/H_LOGO.png" loading="lazy" alt="Profile Image" height="50">
+<img src="https://github.com/HarshvardhanThosar/SourceMediaFiles/blob/master/BrandingSources/H_LOGO.png" loading="lazy" alt="Profile Image" height="75">

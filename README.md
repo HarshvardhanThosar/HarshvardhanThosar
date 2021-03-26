@@ -17,7 +17,7 @@ Help me with stars if you find my projects useful.
 
 emit - An Innovation To The Online Education System
 
-<img src="https://github.com/HarshvardhanThosar/SourceMediaFiles/blob/master/emit/GfxSources/emit-banner.png" loading="lazy" alt="emit" width="100%">
+<img src="https://github.com/HarshvardhanThosar/SourceMediaFiles/blob/master/emit/GfxSources/emit-banner.png" loading="lazy" alt="emit"  height="auto" width="auto" max-height="250px">
 
 ---
 

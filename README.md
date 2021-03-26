@@ -7,7 +7,7 @@ Looking forward to collab in open source projects.
 
 <div style="display: flex; flex-direction: row; justify-content: space-between;align-items: center;">
 <img src="https://github.com/HarshvardhanThosar/SourceMediaFiles/blob/master/BrandingSources/H_LOGO.png" loading="lazy" alt="Profile Image" height="150">
-<img src="https://github-readme-stats.vercel.app/api?username=harshvardhanthosar&&show_icons=true&title_color=ffffff&icon_color=1f6feb&text_color=ffffff&bg_color=151515" loading="lazy" alt="Profile" width="100%">
+<img src="https://github-readme-stats.vercel.app/api?username=harshvardhanthosar&&show_icons=true&title_color=ffffff&icon_color=1f6feb&text_color=ffffff&bg_color=151515" loading="lazy" alt="Profile" height="150">
 </div>
 
 Help me with stars if you find my projects useful.

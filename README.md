@@ -6,7 +6,7 @@ I want to contribute something meaningful to this world.
 Looking forward to collab in open source projects.
 
 <!-- <div style="display: flex; flex-direction: row; justify-content: space-between;align-items: center;"> -->
-<img src="https://github-readme-stats.vercel.app/api?username=harshvardhanthosar&&show_icons=true&title_color=ffffff&icon_color=1f6feb&text_color=ffffff&bg_color=151515" loading="lazy" alt="Profile" height="150">
+<img src="https://github-readme-stats.vercel.app/api?username=harshvardhanthosar&&show_icons=true&title_color=ffffff&icon_color=1f6feb&text_color=ffffff&bg_color=151515" loading="lazy" alt="Profile">
 <!-- </div> -->
 
 Help me with stars if you find my projects useful.
@@ -17,7 +17,7 @@ Help me with stars if you find my projects useful.
 
 emit - An Innovation To The Online Education System
 
-<img src="https://github.com/HarshvardhanThosar/SourceMediaFiles/blob/master/emit/GfxSources/emit-banner.png" loading="lazy" alt="emit"  height="auto" width="auto" max-height="250px">
+<img src="https://github.com/HarshvardhanThosar/SourceMediaFiles/blob/master/emit/GfxSources/emit-banner.png" loading="lazy" alt="emit" width="100%">
 
 ---
 

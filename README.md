@@ -57,6 +57,7 @@ emit - An Innovation To The Online Education System
 <img src="https://iconape.com/wp-content/files/la/351280/svg/webrtc-seeklogo.com.svg" loading="lazy" alt="WebRTC" height="25">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://play-lh.googleusercontent.com/1ckxjos_oOGSNOFyUE-cp7xSCoKLVgMOEAGVCgb6WDhObTlDDnyLohgtI8o1TI2c7A" loading="lazy" alt="Jitsi" height="25">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://gblobscdn.gitbook.com/spaces%2F-LwY_OXUQHvmdEoy0xNa%2Favatar.png?alt=mediag" loading="lazy" alt="RxJS" height="25">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://redux-observable.js.org/logo/logo-small.gif" loading="lazy" alt="Redux Observable" height="25">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ---
 
